@@ -3,10 +3,10 @@ I have Done Three Projects During My College Days Using various Technologies Suc
 I have Listed Below My Project Titles And Their Technologies.
                   <br>
                   <center>
-                  <ul>
-                  <li> 1.Centralized Eye Bank Web application.</li>
-                  <li> 2.Digital Naturalist.</li>
-                  <li> 3.Steel Waste Management.</li>
-                  </ul>
+                  <ol>
+                  <li> Centralized Eye Bank Web application.</li>
+                  <li> Digital Naturalist.</li>
+                  <li> Steel Waste Management.</li>
+                  </ol>
                   </center>
 
